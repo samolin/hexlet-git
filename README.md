@@ -1,4 +1,3 @@
 No code No pain
 experiment with amend
-my turn
-my turn2
+my turn with vim
